@@ -1,0 +1,20 @@
+{
+    "bin": {
+   "Assessment": "./bin/dyte.js"
+ },
+ "dyte-js-sample-app ":{
+    
+    
+    "value": "https://github.com/dyte-in/javascript-sample-app",
+    "main": "bin/dyte.js"
+ },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dyte-react-sample-app":{
+    "value": "https://github.com/dyte-in/react-sample-app/"
+   },
+   "dyte-sample-app-backend":{
+    "value": "https://github.com/dyte-in/backend-sample-app/"
+   }
+}
