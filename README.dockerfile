@@ -15,3 +15,5 @@ deserialize the json file in c# and store responses as csv file
 //THE JS FILE AND JSON FILE ARE INSIDE THE BIN FOLDER
 
 //THE C# PROJECT FILE IS INSIDE THE DYTE FOLDER 
+
+// IN C# file we can create an if condition to compare the versions, decalre a bolean variable to return TRUE when the received version is >/= given version
